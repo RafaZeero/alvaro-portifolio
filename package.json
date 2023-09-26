@@ -1,0 +1,12 @@
+{
+  "name": "alvrin-portifolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "front": "npm run dev --prefix front"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
