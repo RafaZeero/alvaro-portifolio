@@ -1,0 +1,45 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"campinho": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Laboris velit dolor minim id sunt aliqua labore. Adipisicing ipsum sunt in adipisicing commodo ut."
+						}
+					}
+				]
+			},
+			"numerocampinho": {
+				"__TYPE__": "FieldContent",
+				"value": "15",
+				"type": "Number"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"textocampo",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Voluptate quis esse dolor pariatur veniam do. Velit nisi Lorem nostrud. Proident aute labore laborum sit ea proident consectetur."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
